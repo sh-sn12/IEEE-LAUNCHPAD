@@ -1,156 +1,53 @@
-# IEEE LAUNCHPAD Job Fair
+# SHREYA SHELJI
 
+### About Me
 
+> An enthusiastic student who always love to learn more and work on herself is the thing which can define me. I always love to develop and learn .
+> I also have my programming language experiences on c, java, python at an intermediate level. I also have experience in working with databases such as MySQL, Postgresql.
+> I am also a creative and design thinker and like to think and do creatively. I  love trying  to do something new and try to learn from that.
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+#### Leadership and Influence:
 
+ - I am a person who believe that a good leadership lead to everything possible. I love writing and I think I will be able to lead people in that way of writing.
 
+#### Networking:
 
+- Networking helps to develop ourselves and I am sure that I will be able to build good relationships among everyone I work along.
 
+#### Career Plan:
 
+- My long term goal is  to work in a project that help to solve any of the problem that our society faces.I like to help my society a lot by building any project which I hadn't yet decided. But I will definitely like to build a projectin making our life situations more safer.I also like to develop a startup that will help lot of people.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- The wiser use of AI can definitely help to take the Tech ecosystem of Kerala to the next level. a wiser use ofcourse means a sustainable way in which both the humans andAI can benefit like in a mutual relation.The AI can be used more in ensuring road safety and also our developing fields like cashew factories and also fishing farms.
 
-#
+#### History of Open Source Contributions:
 
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
+#### History of Community Engagement:
 
+-  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
-<div align="center">
+#### Highly Visible Technical Content:
 
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
+#### Highly Used Software Tools:
 
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
+#### Competitive Website Profiles:
 
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
